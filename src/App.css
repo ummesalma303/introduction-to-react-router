@@ -1,0 +1,15 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+
+.anchor-container a{
+  margin: 4px;
+  font-size: 20px;
+  color: black;
+}
+.anchor-container a:hover{
+  color: rgb(88, 85, 85);
+}
