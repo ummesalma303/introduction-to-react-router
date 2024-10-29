@@ -6,10 +6,21 @@
 
 
 .anchor-container a{
-  margin: 4px;
+  margin: 12px;
   font-size: 20px;
   color: black;
 }
 .anchor-container a:hover{
   color: rgb(88, 85, 85);
+}
+
+.user{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 60px;
+  margin: 60px 0;
+}
+
+#sidebar a.active {
+  color: red;
 }

@@ -1,8 +1,7 @@
-
 const Footer = () => {
     return (
-        <div style={{background:"gray",color:"white", width:'100%',marginTop:'90vh'}}>
-            <div>I Am Footer</div>
+        <div style={{background:'gray',padding:'20px'}}>
+            <h1>I am Footer</h1>
         </div>
     );
 };
